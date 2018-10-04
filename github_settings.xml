@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="a4922abf-91f7-4d5b-bc25-266ba7627815" name="Grilled-Python">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
