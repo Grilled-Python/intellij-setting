@@ -1,12 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="90b1d07d-11e2-4fc6-94aa-be079dfe9eb3" name="ssh" url="http://160.16.114.162">
-        <fileTransfer host="160.16.114.162" port="50022" accessType="SFTP" authAgent="true">
+      <webServer id="90b1d07d-11e2-4fc6-94aa-be079dfe9eb3" name="ssh" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="8000" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="50022" />
+          <option name="port" value="8000" />
         </fileTransfer>
       </webServer>
     </option>
