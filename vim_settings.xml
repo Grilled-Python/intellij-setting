@@ -31,12 +31,26 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
         <mark key="[" line="106" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/blog/models.py" timestamp="1546895360377" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/blog/models.py" timestamp="1546895734804">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="9" filename="$USER_HOME$/Dropbox/Projects/git_tutorial/index.html" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text>from django.db import models
+
+#</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>from django.db import models
+
+#</text>
+      </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
