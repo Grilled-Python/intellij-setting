@@ -13,15 +13,23 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
+        <mark key="[" line="1" column="18" />
+      </file>
       <file name="/Python Console" timestamp="1546534328738">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/manage.py" timestamp="1546894032854">
+        <mark key="[" line="5" column="55" />
       </file>
       <file name="/Django Console" timestamp="1546451275436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/urls.py" timestamp="1546886021213" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/urls.py" timestamp="1546893916975">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
-        <mark key="[" line="105" column="22" />
+        <mark key="[" line="106" column="22" />
       </file>
     </filemarks>
     <jumps>
