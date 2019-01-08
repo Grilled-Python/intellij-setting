@@ -13,31 +13,37 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
-        <mark key="[" line="1" column="18" />
-      </file>
       <file name="/Python Console" timestamp="1546534328738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/manage.py" timestamp="1546894032854">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="/Django Console" timestamp="1546451275436">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/urls.py" timestamp="1546893916975">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
-        <mark key="[" line="106" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/test/blog/models.py" timestamp="1546906532515">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/blog/models.py" timestamp="1546895734804">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/test/config/settings.py" timestamp="1546906238937">
-        <mark key="[" line="105" column="21" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
+        <mark key="[" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test/blog/admin.py" timestamp="1546907739447">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1546451275436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
+        <mark key="[" line="106" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test/config/settings.py" timestamp="1546906340857">
+        <mark key="[" line="106" column="21" />
       </file>
     </filemarks>
     <jumps>
