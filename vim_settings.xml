@@ -6,11 +6,17 @@
       <file name="$USER_HOME$/PycharmProjects/test/config/urls.py" timestamp="1546929393867">
         <mark key="[" line="20" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/git_tutorial/test.text" timestamp="1546451329539">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1546534328738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/manage.py" timestamp="1546894032854">
         <mark key="[" line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/templates/polls/index.html" timestamp="1546969254980">
+        <mark key="[" line="0" column="6" />
       </file>
       <file name="/a.dummy" timestamp="1546928925486">
         <mark key="[" line="0" column="0" />
@@ -21,35 +27,11 @@
       <file name="$USER_HOME$/Dropbox/Projects/mysite/mysite/settings.py" timestamp="1546958304376">
         <mark key="[" line="106" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/views.py" timestamp="1546968064731">
-        <mark key="[" line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mysite/mysite/urls.py" timestamp="1546958797340">
-        <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/models.py" timestamp="1546959557592">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/admin.py" timestamp="1546967795063">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/test/blog/admin.py" timestamp="1546907739447">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1546451275436">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
-        <mark key="[" line="106" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/git_tutorial/test.text" timestamp="1546451329539">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/templates/polls/index.html" timestamp="1546969254980">
-        <mark key="[" line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/test/blog/models.py" timestamp="1546906532515">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/views.py" timestamp="1546968064731">
+        <mark key="[" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/urls.py" timestamp="1546968769471">
         <mark key="[" line="0" column="0" />
@@ -59,17 +41,33 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mysite/mysite/urls.py" timestamp="1547403912281">
+        <mark key="[" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/models.py" timestamp="1546959557592">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/test/blog/views.py" timestamp="1546920195021">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/admin.py" timestamp="1546967795063">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test/blog/admin.py" timestamp="1546907739447">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/test/blog/templates/blog.html" timestamp="1546929200058" />
+      <file name="/Django Console" timestamp="1546451275436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
+        <mark key="[" line="106" column="22" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/test/config/settings.py" timestamp="1546906340857">
         <mark key="[" line="106" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/test/blog/templates/blog/post_list.html" timestamp="1546929432106" />
     </filemarks>
     <jumps>
       <jump line="2" column="9" filename="$USER_HOME$/Dropbox/Projects/git_tutorial/index.html" />
