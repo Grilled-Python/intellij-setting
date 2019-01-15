@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/urls.py" timestamp="1547457453092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/settings.py" timestamp="1547519003628">
-        <mark key="[" line="106" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/settings.py" timestamp="1547527573343">
+        <mark key="[" line="33" column="23" />
         <mark key="]" line="107" column="22" />
         <mark key="." line="107" column="22" />
       </file>
@@ -92,6 +92,9 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
         <mark key="[" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/settings.py" timestamp="1547526914719">
+        <mark key="[" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/confg/settings.py" timestamp="1547446900326">
         <mark key="[" line="105" column="22" />
