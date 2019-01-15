@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="90b1d07d-11e2-4fc6-94aa-be079dfe9eb3" name="ubuntu" url="http://160.16.114.162">
-        <fileTransfer host="160.16.114.162" port="50022" accessType="SFTP" authAgent="true">
+        <fileTransfer host="160.16.114.162" port="50022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
