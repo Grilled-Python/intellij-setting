@@ -48,7 +48,7 @@
       <file name="$USER_HOME$/PycharmProjects/test/blog/admin.py" timestamp="1546907739447">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/templates/main_app/index.html" timestamp="1547621446255">
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/templates/main_app/index.html" timestamp="1547681976530">
         <mark key="[" line="32" column="43" />
       </file>
       <file name="/Django Console" timestamp="1546451275436">
@@ -94,10 +94,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/pipelines.py" timestamp="1547669684787">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/pipelines.py" timestamp="1547681617123">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/test/blog/views.py" timestamp="1546920195021">
         <mark key="[" line="3" column="0" />
@@ -167,7 +167,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
