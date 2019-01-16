@@ -57,11 +57,6 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
         <mark key="[" line="106" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/views.py" timestamp="1547602779333">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/urls.py" timestamp="1547540959071">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,7 +74,7 @@
       <file name="/Dummy.txt" timestamp="1547594992106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/tests.py" timestamp="1547606522037">
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/tests.py" timestamp="1547612228399">
         <mark key="[" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mysite/polls/templates/polls/index.html" timestamp="1546969254980">
@@ -142,7 +137,7 @@
         <text encoding="base64">IiIiCiQgc2NyYXB5IGNyYXdsIGJsb2dzcGlkZXIK44OV44Kh44Kk44Or44Gn44K544OR44Kk44OA44O844KS5YuV44GL44GZ44Kz44Oe44Oz44OJCiIiIgoKCmNsYXNzIEJsb2dTcGlkZXIoc2NyYXB5LlNwaWRlcik6CiAgICBuYW1lID0gJ2Jsb2dzcGlkZXInICAjIFNwaWRlcuOBruWQjeWJjeOAguOBk+OCjOOBjOeEoeOBhOOBqOWLleOBi+OBquOBhAoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYudXJsID0ga3dhcmdzLmdldCgndXJsJykKICAgICAgICBzZWxmLmRvbWFpbiA9IGt3YXJncy5nZXQoJ2RvbWFpbicpCiAgICAgICAgc2VsZi51bmlxdWVfaWQgPSBrd2FyZ3MuZ2V0KCd1bmlxdWVfaWQnKSAgIyB2aWV3c+OBi+OCiQogICAgICAgIHNlbGYuc3RhcnRfdXJscyA9IFtzZWxmLnVybF0KICAgICAgICBzZWxmLml0ZW0gPSBPcmRlcmVkRGljdCgpCgogICAgICAgIHN1cGVyKEJsb2dTcGlkZXIsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKCiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgIyDjg4fjg7zjgr/jg5njg7zjgrnjgYvjgonlj5bjgorlh7rjgZfjgZ/mloflrZfliJfjgYvjgonkuI3lv4XopoHjgarjgoLjga7jgpLlj5bjgorpmaTjgYTjgaZsaXN044GX44Gmc2NyYXB544Gr5rih44GX44Gm44GE44KLCiAgICAgICAgc2l0ZV9kYXRhID0gU2l0ZURhdGEub2JqZWN0cy5nZXQocGs9c2VsZi51bmlxdWVfaWQpCiAgICAgICAgZ29vZ2xlX3Jlc3VsdHMgPSBzaXRlX2RhdGEuZ29vZ2xlX3Jlc3VsdHMKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -156,7 +151,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
