@@ -33,8 +33,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/apps.py" timestamp="1547465494841">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy.cfg" timestamp="1547540809210">
-        <mark key="[" line="9" column="5" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy.cfg" timestamp="1547709588227">
+        <mark key="[" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mysite/mysite/urls.py" timestamp="1547404000957">
         <mark key="[" line="20" column="15" />
@@ -94,11 +94,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/pipelines.py" timestamp="1547681617123">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/test/blog/views.py" timestamp="1546920195021">
         <mark key="[" line="3" column="0" />
       </file>
@@ -108,8 +103,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/wsgi.py" timestamp="1546893943565">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/settings.py" timestamp="1547531974702">
-        <mark key="[" line="100" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/settings.py" timestamp="1547709434560">
+        <mark key="[" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/confg/settings.py" timestamp="1547446900326">
         <mark key="[" line="105" column="22" />
