@@ -60,10 +60,11 @@
       <file name="/Django Console" timestamp="1546451275436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/requirements.txt" timestamp="1548315241375">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/requirements.txt" timestamp="1548455729150">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/src/mein_app/settings.py" timestamp="1546893206455">
         <mark key="[" line="106" column="22" />
@@ -71,10 +72,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/urls.py" timestamp="1547540959071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/settings.py" timestamp="1547527573343">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="107" column="22" />
-        <mark key="." line="107" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/settings.py" timestamp="1548456062344">
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/demo/demo.py" timestamp="1547593811212">
         <mark key="[" line="6" column="10" />
@@ -117,7 +116,18 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/settings.py" timestamp="1547709434560">
         <mark key="[" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/.env.sample" timestamp="1548454068091" />
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/.env.sample" timestamp="1548456185228">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/confg/settings.py" timestamp="1547446900326">
+        <mark key="[" line="105" column="22" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/models.py" timestamp="1547466747922">
         <mark key="[" line="4" column="25" />
       </file>
@@ -134,11 +144,14 @@
       <jump line="2" column="9" filename="$USER_HOME$/Dropbox/Projects/git_tutorial/index.html" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">U0VDUkVUX0tFWSA9ICd5NTM2emMoPW81PWs3bHBkaXg5NC0tN2ZvayFlbmF2JiFAZjBudTZpPSRuZnEpeSVmMScK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">IiIiCiQgc2NyYXB5IGNyYXdsIGJsb2dzcGlkZXIK44OV44Kh44Kk44Or44Gn44K544OR44Kk44OA44O844KS5YuV44GL44GZ44Kz44Oe44Oz44OJCiIiIgoKCmNsYXNzIEJsb2dTcGlkZXIoc2NyYXB5LlNwaWRlcik6CiAgICBuYW1lID0gJ2Jsb2dzcGlkZXInICAjIFNwaWRlcuOBruWQjeWJjeOAguOBk+OCjOOBjOeEoeOBhOOBqOWLleOBi+OBquOBhAoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYudXJsID0ga3dhcmdzLmdldCgndXJsJykKICAgICAgICBzZWxmLmRvbWFpbiA9IGt3YXJncy5nZXQoJ2RvbWFpbicpCiAgICAgICAgc2VsZi51bmlxdWVfaWQgPSBrd2FyZ3MuZ2V0KCd1bmlxdWVfaWQnKSAgIyB2aWV3c+OBi+OCiQogICAgICAgIHNlbGYuc3RhcnRfdXJscyA9IFtzZWxmLnVybF0KICAgICAgICBzZWxmLml0ZW0gPSBPcmRlcmVkRGljdCgpCgogICAgICAgIHN1cGVyKEJsb2dTcGlkZXIsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKCiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgIyDjg4fjg7zjgr/jg5njg7zjgrnjgYvjgonlj5bjgorlh7rjgZfjgZ/mloflrZfliJfjgYvjgonkuI3lv4XopoHjgarjgoLjga7jgpLlj5bjgorpmaTjgYTjgaZsaXN044GX44Gmc2NyYXB544Gr5rih44GX44Gm44GE44KLCiAgICAgICAgc2l0ZV9kYXRhID0gU2l0ZURhdGEub2JqZWN0cy5nZXQocGs9c2VsZi51bmlxdWVfaWQpCiAgICAgICAgZ29vZ2xlX3Jlc3VsdHMgPSBzaXRlX2RhdGEuZ29vZ2xlX3Jlc3VsdHMKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VDUkVUX0tFWSA9ICd5NTM2emMoPW81PWs3bHBkaXg5NC0tN2ZvayFlbmF2JiFAZjBudTZpPSRuZnEpeSVmMScK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
