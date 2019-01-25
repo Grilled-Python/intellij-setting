@@ -54,6 +54,9 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/templates/main_app/index.html" timestamp="1547690968559">
         <mark key="[" line="32" column="43" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/.gitignore" timestamp="1548453973662">
+        <mark key="[" line="9" column="4" />
+      </file>
       <file name="/Django Console" timestamp="1546451275436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,12 +117,7 @@
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/scrapy_app/scrapy_app/settings.py" timestamp="1547709434560">
         <mark key="[" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/googleranker/confg/settings.py" timestamp="1547446900326">
-        <mark key="[" line="105" column="22" />
-        <mark key="]" line="107" column="22" />
-        <mark key="^" line="107" column="22" />
-        <mark key="." line="107" column="22" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/googleranker/config/.env.sample" timestamp="1548454068091" />
       <file name="$USER_HOME$/Dropbox/Projects/googleranker/apps/main_app/models.py" timestamp="1547466747922">
         <mark key="[" line="4" column="25" />
       </file>
